@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ludivine</h1>
 <h3 align="center">A passionate junior developer always eager to learn !</h3>
 
-- 🔭 I’m currently working on [Blablabook](https://blablabook-2025.onrender.com/)
-
 - 🌱 I’m currently learning **React, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ludivinelelan.netlify.app/](https://portfolio-ludivinelelan.netlify.app/)
