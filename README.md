@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ludivinelelan.netlify.app/](https://portfolio-ludivinelelan.netlify.app/)
+- 👨‍💻 All of my projects are available at [[https://portfolio-ludivinelelan.netlify.app/](https://ludivinelelan.fr/)]
 
 - 📫 How to reach me **lelanludivine@gmail.com**
 
